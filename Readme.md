@@ -23,23 +23,3 @@
 
 ```bash
 pip install Pillow stegano opencv-python numpy
-
-
-
-Usage
-```bash
-Hide a Secret Message in an Image:
-
-python3 stegfore.py hide cover.png "This is a secret" output.png
-
-Extract Hidden Message from an Image:
-
-python3 stegfore.py extract output.png
-
-Extract Metadata from an Image:
-
-python3 stegfore.py metadata image.jpg
-
-Get File Hash:
-
-python3 stegfore.py hash file.exe --algo sha256
