@@ -1,5 +1,3 @@
-Here is the README.md content for you to paste directly into your GitHub repository:
-
 # StegX - Steganography Tool
 
 **StegX** is a powerful steganography tool for hiding and revealing secret messages inside images. It supports various functionalities like:
