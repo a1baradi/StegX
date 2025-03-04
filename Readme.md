@@ -18,6 +18,7 @@
    ```bash
    git clone https://github.com/D3fu1t/StegX.git
    cd StegX
+   python3 stegx.py
 
 2. Install dependencies:
 
