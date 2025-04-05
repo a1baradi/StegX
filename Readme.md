@@ -16,7 +16,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/D3fu1t/StegX.git
+   git clone https://github.com/a1baradi/StegX.git
    cd StegX
    python3 stegx.py
 
