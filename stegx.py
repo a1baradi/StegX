@@ -13,7 +13,7 @@ def banner():
     print("""
     Steganography Tool
     ===================
-    Made by D3fu1t
+    Made by Al Baradi Joy
     """)
 
 # Footer for the script
